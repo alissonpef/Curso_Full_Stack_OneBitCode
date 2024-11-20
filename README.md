@@ -56,11 +56,7 @@ Este repositório contém recursos, anotações e projetos práticos relacionado
 ---
 
 ## 📂 **Estrutura do Repositório**  
-- **/Fundamentos:** Exercícios e recursos sobre HTML, CSS e JavaScript.  
-- **/Front-End:** Projetos práticos utilizando React, Vue.js e Angular.  
-- **/Back-End:** APIs e servidores construídos com Node.js e Express.js.  
-- **/BancoDeDados:** Modelagem de dados e integração com MongoDB e SQL.  
-- **/Deploy:** Guias e scripts para deploy de aplicações.
+- **/:** Notas e exercícios de introdução à linguagem.
 
 ---
 
