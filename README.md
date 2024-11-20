@@ -69,4 +69,4 @@ Dúvidas ou sugestões? Entre em contato:
 - **OneBitCode:** [Site Oficial](https://onebitcode.com).  
 - **Autor do Repositório:** [Alisson](mailto:alissonpef@gmail.com).  
 
-Aproveite e acelere sua jornada para se tornar um Full Stack Developer! 💻🚀
+Aproveite a sua jornada para se tornar um Full Stack Developer! 💻🚀
