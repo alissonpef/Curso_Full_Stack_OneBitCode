@@ -56,6 +56,10 @@ const racas = personagens.reduce(function (acumulador, personagem) {
 }, {}) // Inicia o objeto vazio
 console.log(racas)
 
+// array.reduce((acumulador, elementoAtual, indice, arrayCompleto) => {
+//    lógica do callback
+// }, valorInicial);
+
 // sort: ordena os elementos de um array a partir de comparações entre duplas de elementos
 personagens.sort(function (a, b) {
     return a.nivel - b.nivel
