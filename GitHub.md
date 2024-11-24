@@ -27,7 +27,12 @@
 
 4. **Baixe as alterações remotas, se houver (para evitar conflitos):**
    ```bash
-   git pull origin main --rebase
+git pull origin main --rebase
+   ```
+
+5. **Crie um novo branch chamado `main` e mude para ele:**
+   ```bash
+git rebase --continue
    ```
 
 ---
@@ -42,9 +47,14 @@
 
 2. **Crie o commit com uma mensagem descritiva:**
    ```bash
-   git commit -m "Mensagem explicativa do commit"
+   git commit -m "First commit"
    ```
 
+3. **Altere o nome da branch principal para `main`:**
+   ```bash
+   git branch -m master main
+   ```
+   
 3. **Envie as alterações para o repositório remoto:**
    ```bash
    git push -u origin main
@@ -71,7 +81,7 @@
 
 4. **Envie as alterações para o repositório remoto:**
    ```bash
-   git push
+   git push -u origin main
    ```
 
 ---
