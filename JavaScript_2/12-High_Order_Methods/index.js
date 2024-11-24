@@ -43,7 +43,7 @@ console.log(orcs)
 // esse array e retornando ele no final
 const nivelTotal = personagens.reduce(function (acumulador, personagem) {
     return acumulador + personagem.nivel
-}, 0) // Inicia o objeto eem 0
+}, 0) // Inicia o objeto em 0
 console.log(nivelTotal)
 
 const racas = personagens.reduce(function (acumulador, personagem) {
